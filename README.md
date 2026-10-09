@@ -4,13 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Enthusiast+%7C+Software+Developer;Exploring+Intelligent+Automation;Building+AI-Powered+Applications;Computer+Vision+%7C+Robotics+%7C+Full+Stack" alt="Typing introduction"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/VandanaxxNxx190499">
-    <img src="https://img.shields.io/badge/GitHub-Vandana-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-8A2BE2?style=for-the-badge" alt="AI and ML"/>
-  <img src="https://img.shields.io/badge/Software%20Development-Building-0078D4?style=for-the-badge" alt="Software development"/>
-  <img src="https://img.shields.io/badge/Automation-Interested-00A98F?style=for-the-badge" alt="Automation"/>
+ <p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-INTERESTED-8A2BE2?style=for-the-badge" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-INTERESTED-0078D4?style=for-the-badge" alt="Software Development"/>
+  <img src="https://img.shields.io/badge/AUTOMATION-INTERESTED-00A98F?style=for-the-badge" alt="Automation"/>
 </p>
 
 ## 👩‍💻 About Me
